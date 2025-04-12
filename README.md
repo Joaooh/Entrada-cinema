@@ -9,7 +9,8 @@ Este script em Python simula um sistema de verificação de acesso baseado na id
 
 🇬🇧 ∕ 🇺🇸 Access Verification by Age and Ticket
 
-- This Python script simulates an access verification system based on the user's age and whether they have a ticket. It follows a basic loop and input validation logic:
+This Python script simulates an access verification system based on the user's age and whether they have a ticket. It follows a basic loop and input validation logic:
+
 - Asks for the user's age and ensures it's a valid integer.
 - Asks if the user has a ticket, only accepting S (yes) or N (no).
 - Verifies if the user is allowed to enter (minimum age of 16 and must have a ticket).
